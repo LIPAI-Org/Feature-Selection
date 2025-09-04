@@ -1,3 +1,5 @@
+# Investigação de Algoritmos de Representação de Mapas de Características para Classificação de Lesões da Cavidade Oral.
+
 # Image Lime
 
 O algoritmo imageLIME é uma técnica utilizada para explicar as decisões de classificação tomadas por modelos de aprendizagem profunda, especificamente aproximando o comportamento do modelo usando um modelo mais simples e interpretável. Isso é conseguido por meio da estrutura LIME (Locally Interpretable Model-Agnostic Explanations). Aqui está uma explicação passo a passo de como funciona o algoritmo imageLIME, com base nas fontes fornecidas:
